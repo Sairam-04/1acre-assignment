@@ -1,3 +1,11 @@
+Displaying All the markers in google map
+
+![image](https://github.com/user-attachments/assets/6fd9b7f2-e2ae-4ad4-84fa-ca36e76d7034)
+
+![image](https://github.com/user-attachments/assets/b657647f-11c2-4af7-933c-cdd08ef0343e)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
